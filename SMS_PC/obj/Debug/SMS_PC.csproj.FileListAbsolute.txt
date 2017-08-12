@@ -1,0 +1,31 @@
+c:\users\tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Login_Form.resources
+c:\users\tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Properties.Resources.resources
+c:\users\tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.csproj.GenerateResource.Cache
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\SMS_PC.exe.config
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.csprojResolveAssemblyReference.cache
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\SMS_PC.exe
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\SMS_PC.pdb
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\MaterialSkin.dll
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\MySql.Data.dll
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.exe
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.pdb
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Student_Form.resources
+C:\Users\Tonni\documents\visual studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Admin_Form.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\SMS_PC.exe.config
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\SMS_PC.exe
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\SMS_PC.pdb
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\MaterialSkin.dll
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\bin\Debug\MySql.Data.dll
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Accounts_Form.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Admin_Form.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Student_Form.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Login_Form.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Properties.Resources.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.Teacher_Form.resources
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.csproj.GenerateResource.Cache
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.exe
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.pdb
+C:\Users\NixonOK\Documents\Visual Studio 2015\Projects\SMS_PC\SMS_PC\obj\Debug\SMS_PC.csprojResolveAssemblyReference.cache
+C:\Users\NixonOK\Desktop\GitHub\School Management System Windows Visual Studio C# MySQL Material Design\SMS_PC\bin\Debug\SMS_PC.exe.config
+C:\Users\NixonOK\Desktop\GitHub\School Management System Windows Visual Studio C# MySQL Material Design\SMS_PC\obj\Debug\SMS_PC.exe
+C:\Users\NixonOK\Desktop\GitHub\School Management System Windows Visual Studio C# MySQL Material Design\SMS_PC\obj\Debug\SMS_PC.pdb
